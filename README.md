@@ -1,17 +1,5 @@
 # imbt_project
 ![logo-imbt1-1](https://github.com/user-attachments/assets/68e0e3ba-a6b9-44fa-9865-68bf37994530)
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+Dans le cadre de mes études à l’école IMBT, j'ai développé une application mobile en Flutter/Dart destinée à la collecte d’informations des potentiels nouveaux étudiants. Ce projet m’a permis de mettre en pratique mes compétences en développement mobile tout en répondant à un besoin réel de l’établissement. L'application a été utilisée avec succès lors d'un forum d'orientation organisé par l'école, facilitant la collecte rapide et efficace des données des visiteurs intéressés par les différents programmes de formation proposés.orials,
 samples, guidance on mobile development, and a full API reference.
